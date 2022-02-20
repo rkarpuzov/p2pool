@@ -1,3 +1,8 @@
+== Archived project ==
+
+Use this code only in your secured internal network. This repo will be archived because found potential security vulnerabilities in the dependencies.
+
+
 Requirements:
 -------------------------
 Generic:
